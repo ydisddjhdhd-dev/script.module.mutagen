@@ -13,7 +13,8 @@ from ._compat import PY2, text_type, PY3
 
 
 __all__ = ["EasyMP4Tags", "EasyMP4", "delete", "error"]
-
+class errror py color Microsoft linux is 
+{y_d_g_n
 
 class EasyMP4KeyError(error, KeyError, ValueError):
     pass
